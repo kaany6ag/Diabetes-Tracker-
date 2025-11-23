@@ -1,0 +1,23 @@
+Uses **matplotlib** to show glucose level trend over days.
+OUTPUT
+=== LOGIN =====
+Create your username: kaanya
+To set your password, answer this question:
+What is your birth year? 200
+Now login to continue
+Username: kaanya
+What is your birth year? 2006
+
+✔ Login successful!
+============================
+        MAIN MENU
+============================
+1. Add new entry
+2. View summary
+3. Save text report
+4. Export JSON file
+5. View glucose graph
+6. Export PDF report
+7. Exit
+
+Enter your choice: 5

@@ -1,0 +1,37 @@
+===== LOGIN =====
+Create your username: kaanya
+
+To set your password, answer this question:
+What is your birth year? 2006
+
+Now login to continue.
+
+Username: kaanya
+What is your birth year? 2006
+
+✔ Login successful!
+
+
+============================
+        MAIN MENU
+============================
+1. Add new entry
+2. View summary
+3. Save text report
+4. Export JSON file
+5. View glucose graph
+6. Export PDF report
+7. Exit
+
+Enter your choice: 1
+
+=== ADD TODAY'S ENTRY ===
+Glucose Level: 90
+BMI: 36
+Age: 19
+Blood Pressure: 175
+
+ Risk Level: Low Risk
+ Recommendation: Stage 2 Hypertension — Consult doctor immediately.
+
+

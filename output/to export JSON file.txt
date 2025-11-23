@@ -1,0 +1,26 @@
+===== LOGIN =====
+Create your username: khushi
+
+To set your password, answer this question:
+What is your birth year? 2000
+
+Now login to continue.
+
+Username: khushi
+What is your birth year? 2000
+
+✔ Login successful!
+============================
+        MAIN MENU
+============================
+1. Add new entry
+2. View summary
+3. Save text report
+4. Export JSON file
+5. View glucose graph
+6. Export PDF report
+7. Exit
+
+Enter your choice: 4
+
+📁 JSON file saved as 'diabetes_data.json'

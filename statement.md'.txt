@@ -1,0 +1,123 @@
+                                                            **PROJECT STATEMENT**   
+                                             **( Diabetes Health Tracker — Python Project)**
+
+
+
+
+>>> Problem Statement
+
+
+
+Diabetes and high blood pressure are becoming increasingly common due to poor lifestyle, irregular eating habits, and lack of awareness. Most people do not track their daily health readings such as glucose, BMI, age, and blood pressure. Without regular monitoring, individuals fail to identify early risk signs, which can lead to serious health complications.
+
+
+
+There is a need for a simple, beginner-friendly, offline, Python-based health tracking system that:
+
+
+- Records daily health values  
+
+- Calculates diabetes risk  
+
+- Provides personalised BP-based health recommendations  
+
+- Generates reports and visual summaries  
+
+- Helps users maintain awareness and control over their health  
+
+
+
+This project aims to solve this problem through a lightweight and easy-to-use Python application.
+
+
+
+>>> Aim of the Project
+
+
+
+To develop a Diabetes Health Tracker using basic Python concepts such as lists, dictionaries, loops, functions, and file handling, which helps users:
+
+
+- Record daily glucose, BMI, blood pressure, and age  
+
+- Calculate diabetes risk levels  
+
+- Receive personalised BP-based recommendations  
+
+- View weekly health summaries  
+
+- Generate reports in text, JSON, and PDF formats  
+
+- Plot glucose trend graphs for analysis  
+
+
+
+>>> Objectives
+
+
+
+1. To build a Python program that stores daily health data efficiently.  
+
+2. To implement a simple risk calculation algorithm based on glucose, BMI, BP, and age.  
+
+3. To provide personalised health suggestions based on blood pressure.  
+
+4. To create summary functionality for weekly analysis.  
+
+5. To generate a text, JSON, and PDF report for the user.  
+
+6. To visualise glucose trends using a graph.  
+
+7. To make the system user-friendly with a login mechanism.  
+
+
+
+>>> Scope
+
+The system is designed for:
+
+- Students  
+
+- Adults  
+
+- Diabetic patients  
+
+- General health monitoring  
+
+- Basic health awareness  
+
+- Academic Python projects  
+
+- Beginners learning data handling and visualization  
+
+
+The project focuses on simplicity and offline usability while demonstrating essential Python programming concepts.
+
+
+>>> Software Requirements
+
+
+
+- Python 3.x
+
+- Matplotlib library  
+
+- FPDF library  
+
+- Basic command-line interface  
+
+
+>>> Users
+
+-Anyone who wants to track their health  
+
+- Individuals monitoring diabetes  
+
+- Students needing a simple Python project  
+
+
+>>> Conclusion
+
+
+This project provides a practical and easy-to-use solution for monitoring diabetes-related health values. It demonstrates core Python concepts and produces useful reports and visual insights, making it ideal for academic submission and real-life use.
+
