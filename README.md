@@ -70,7 +70,7 @@ Using **FPDF** library.
 
  >>>Project Structure
 
-DiabetesTracker/ │ ├── diabetes_tracker_full.py   # Main program ├── diabetes_report.txt        # Auto-created ├── diabetes_data.json         # Auto-created ├── diabetes_report.pdf        # Auto-created └── README.md                  # Documentation
+DiabetesTracker/ │ ├── diabetes_tracker_full.py   ├── diabetes_report.txt         ├── diabetes_data.json         ├── diabetes_report.pdf       └── README.md                  # Documentation
 
 
 
@@ -144,4 +144,5 @@ This project is a complete and beginner-friendly Python health tracker that demo
 Kaanya Agrawal
 Reg no.:25BAI10237
 Branch: CSE -AIML  
+
 
