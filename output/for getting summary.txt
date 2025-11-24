@@ -26,21 +26,6 @@ What is your birth year? 2000
 
 Enter your choice: 2
 
-No entries found.
-
-============================
-        MAIN MENU
-============================
-1. Add new entry
-2. View summary
-3. Save text report
-4. Export JSON file
-5. View glucose graph
-6. Export PDF report
-7. Exit
-
-Enter your choice: 2
-
 ========= SUMMARY =========
 
 Total Days Recorded: 1
@@ -50,6 +35,7 @@ Lowest Glucose: 90.0
 
 Detailed Entries:
 Day 1: {'Glucose': 90.0, 'BMI': 36.0, 'Age': 19, 'BP': 175.0, 'Risk': 'Low Risk', 'Advice': 'Stage 2 Hypertension — Consult doctor immediately.'}
+
 
 
 
